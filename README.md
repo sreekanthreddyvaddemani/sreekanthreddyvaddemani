@@ -1,5 +1,4 @@
 
-
    <h1 align="left">Hi There! Good to see you! 😊</h1>
 
 <p align="left">Welcome to my page!<br><br>I am Sreekanth Reddy from Andhra Pradesh, India  👋 👋</p>
@@ -102,13 +101,7 @@
 
 </div>
 
-<div align="left">
-    <h2 align="left">External Project Page</h2>
-    <p>You can view the content by clicking the link below:</p>
-    <a href="https://sreekanthreddyvaddemani.github.io/Design-One/Class1.html" target="_blank">
-        View Project in New Tab
-    </a>
-</div>
+
 
 
 
