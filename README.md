@@ -77,3 +77,23 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
   <img width="12" />
 </div>
+
+
+<h2 align="left">Projects</h2>
+<div align="left">
+    <h3>1. Ticket Reservation API</h3>
+  <p>An API for managing ticket reservations for various events with real-time availability tracking.</p>
+  <a href="https://github.com/sreekanthreddyvaddemani/TicketReservationAPI" target="_blank">View Project</a>
+  <br><br>
+
+   
+  <h3>2. Hotel Booking System</h3>
+  <p>A full-fledged web application to book hotel rooms, manage bookings, view availability, and make payments. Features include room selection, date selection, and payment processing integrated with a backend system.</p>
+  <a href="https://github.com/sreekanthreddyvaddemani/HotelBookingSystem" target="_blank">View Project</a>
+  <br><br>
+
+ 
+
+ 
+
+</div>
