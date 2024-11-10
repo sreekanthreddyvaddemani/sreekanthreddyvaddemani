@@ -98,8 +98,13 @@
 
 
 
- 
 
+
+</div>
+
+<div align="left">
+    <h2>Embedded Web Page</h2>
+    <iframe src="https://sreekanthreddyvaddemani.github.io/Design-One/Class1.html" width="100%" height="600" style="border:none;"></iframe>
 </div>
 
 
