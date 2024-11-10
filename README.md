@@ -2,7 +2,7 @@
 
    <h1 align="left">Hi There! Good to see you! 😊</h1>
 
-<p align="left">Welcome to my page!<br><br>I am Sreekanth Reddy from Kolkata, India</p>
+<p align="left">Welcome to my page!<br><br>I am Sreekanth Reddy from Andhra Pradesh, India</p>
 
 
 - 👋 Hi, I’m @sreekanthreddyvaddemani
