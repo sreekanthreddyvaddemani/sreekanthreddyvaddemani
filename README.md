@@ -103,9 +103,12 @@
 </div>
 
 <div align="left">
-    <h2>Embedded Web Page</h2>
-    <iframe src="https://sreekanthreddyvaddemani.github.io/Design-One/Class1.html" width="100%" height="600" style="border:none;"></iframe>
+    <h2 align="left">Embedded Web Page</h2>
+    <p>This section displays content from an external web page.</p>
+    <iframe src="https://sreekanthreddyvaddemani.github.io/Design-One/Class1.html" 
+            width="100%" height="600" style="border:none;"></iframe>
 </div>
+
 
 
 
