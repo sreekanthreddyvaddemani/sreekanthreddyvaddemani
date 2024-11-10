@@ -101,3 +101,60 @@
  
 
 </div>
+
+
+
+<section style="position: relative; width: 100%; height: 30vh; background-color: #111; display: flex; flex-direction: column; overflow: hidden;">
+        <div class="row" id="iconRow" style="display: flex; padding: 10px 0; font-size: 40px; flex-wrap: wrap;"></div>
+    </section>
+
+    <script>
+        const icons = [
+            "fa-car", "fa-camera", "fa-cogs", "fa-cloud", "fa-github", "fa-heart", 
+            "fa-home", "fa-music", "fa-plane", "fa-search", "fa-shopping-cart", 
+            "fa-camera-retro", "fa-bicycle", "fa-tree", "fa-wifi", "fa-balance-scale", 
+            "fa-university", "fa-ban", "fa-bell", "fa-bell-o", "fa-battery-half", 
+            "fa-bullseye", "fa-film", "fa-crop", "fa-database", "fa-desktop", 
+            "fa-diamond", "fa-download", "fa-edit", "fa-eraser", "fa-exchange", 
+            "fa-eye", "fa-eyedropper", "fa-external-link", "fa-heart-o", "fa-hourglass-empty", 
+            "fa-laptop", "fa-leaf", "fa-home", "fa-lemon", "fa-lock", "fa-lightbulb", 
+            "fa-meh", "fa-minus-square", "fa-plus", "fa-plus-square", "fa-recycle", 
+            "fa-refresh", "fa-react", "fa-reorder", "fa-retweet", "fa-send-o", 
+            "fa-server", "fa-smile", "fa-car", "fa-camera", "fa-cogs", "fa-cloud", "fa-github", "fa-heart", 
+            "fa-home", "fa-music", "fa-plane", "fa-search", "fa-shopping-cart", 
+            "fa-camera-retro", "fa-bicycle", "fa-tree", "fa-wifi", "fa-balance-scale", 
+            "fa-university", "fa-ban", "fa-bell", "fa-bell-o", "fa-battery-half", 
+            "fa-bullseye", "fa-film", "fa-crop", "fa-database", "fa-desktop", 
+            "fa-diamond", "fa-download", "fa-edit", "fa-eraser", "fa-exchange", 
+            "fa-eye", "fa-eyedropper", "fa-external-link", "fa-heart-o", "fa-hourglass-empty", 
+            "fa-laptop", "fa-leaf", "fa-home", "fa-lemon", "fa-lock", "fa-lightbulb", 
+            "fa-meh", "fa-minus-square", "fa-plus", "fa-plus-square", "fa-recycle", 
+            "fa-refresh", "fa-react", "fa-reorder", "fa-retweet", "fa-send-o"
+        ];
+
+        const iconRow = document.getElementById("iconRow");
+        icons.forEach(icon => {
+            const iElement = document.createElement("i");
+            iElement.classList.add("fa", icon);
+            iElement.setAttribute("aria-hidden", "true");
+            iElement.style.color = "rgba(0, 0, 0, 0)";
+            iElement.style.transition = "5s";
+            iElement.style.padding = "0 5px";
+            iElement.style.userSelect = "none";
+            iElement.style.cursor = "default";
+            
+            iElement.onmouseover = function() {
+                iElement.style.transition = "0s";
+                iElement.style.color = "rgb(0, 129, 0)";
+                iElement.style.textShadow = "0 0 120px #0f0";
+            };
+
+            iElement.onmouseout = function() {
+                iElement.style.transition = "5s";
+                iElement.style.color = "rgba(0, 0, 0, 0)";
+                iElement.style.textShadow = "none";
+            };
+
+            iconRow.appendChild(iElement);
+        });
+    </script>
