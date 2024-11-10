@@ -2,10 +2,9 @@
 
    <h1 align="left">Hi There! Good to see you! 😊</h1>
 
-<p align="left">Welcome to my page!<br><br>I am Sreekanth Reddy from Andhra Pradesh, India</p>
+<p align="left">Welcome to my page!<br><br>I am Sreekanth Reddy from Andhra Pradesh, India  👋 👋</p>
 
 
-- 👋 Hi, I’m @sreekanthreddyvaddemani
 - 👀 I’m interested in backend development, cloud computing, and microservices.
 - 🌱 I’m currently learning advanced Spring Boot configurations, microservices, and cloud platforms like AWS and Google Cloud.
 - 💞️ I’m looking to collaborate on open-source projects, microservices architecture, and Spring Boot applications.
