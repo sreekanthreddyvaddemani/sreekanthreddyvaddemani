@@ -89,6 +89,15 @@
   
   <br><br>
 
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin-top: 15px;">
+      <img src="https://github.com/sreekanthreddyvaddemani/Design-One/blob/main/Screenshot%20(189).png?raw=true" 
+           alt="Hotel Booking Image 1" height="200" style="border: 2px solid #ddd; border-radius: 5px;"/>
+      <img src="https://github.com/sreekanthreddyvaddemani/HotelBookingSystem/blob/main/image2.jpg?raw=true" 
+           alt="Hotel Booking Image 2" height="200" style="border: 2px solid #ddd; border-radius: 5px;"/>
+      <img src="https://github.com/sreekanthreddyvaddemani/HotelBookingSystem/blob/main/image3.jpg?raw=true" 
+           alt="Hotel Booking Image 3" height="200" style="border: 2px solid #ddd; border-radius: 5px;"/> 
+    </div>
+
    
   <h3>2. Hotel Booking System</h3>
   <p>A full-fledged web application to book hotel rooms, manage bookings, view availability, and make payments. Features include room selection, date selection, and payment processing integrated with a backend system.</p>
