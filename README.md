@@ -78,11 +78,11 @@
 </div>
 
 
-<h2 align="left">Projects</h2>
+<h2 align="left">Main Projects</h2>
 <div align="left">
     <h3>1. Ticket Reservation API</h3>
   <p>An API for managing ticket reservations for various events with real-time availability tracking.</p>
-  <a href="https://github.com/sreekanthreddyvaddemani/ticket-reservation-system" target="_blank">View Project - Frontend</a>
+  <a href="https://github.com/sreekanthreddyvaddemani/ticket-reservation-system" target="_blank">View Project - Frontend</a><br><br>
     <a href="https://github.com/sreekanthreddyvaddemani/busreservation-api-app-springboot" target="_blank">View Project - Backend</a>
 
 
@@ -92,7 +92,7 @@
    
   <h3>2. Hotel Booking System</h3>
   <p>A full-fledged web application to book hotel rooms, manage bookings, view availability, and make payments. Features include room selection, date selection, and payment processing integrated with a backend system.</p>
-<a href="https://github.com/sreekanthreddyvaddemani/Hotel-Booking-System-React-Js" target="_blank">View Project - Frontend</a>
+<a href="https://github.com/sreekanthreddyvaddemani/Hotel-Booking-System-React-Js" target="_blank">View Project - Frontend</a><br><br>
     <a href="https://github.com/sreekanthreddyvaddemani/Hotel-Booking-System-Spring-Boot" target="_blank">View Project - Backend</a>
   
   <br><br>
