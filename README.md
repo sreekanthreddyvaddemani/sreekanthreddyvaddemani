@@ -91,11 +91,11 @@
 
   <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin-top: 15px;">
       <img src="https://github.com/sreekanthreddyvaddemani/Design-One/blob/main/Screenshot%20(191).png?raw=true" 
-           alt="Hotel Booking Image 1" height="200" style="border: 2px solid #ddd; border-radius: 5px;"/>
+           alt="Hotel Booking Image 1" height="200" width="400" style="border: 2px solid #ddd; border-radius: 5px;"/>
       <img src="https://github.com/sreekanthreddyvaddemani/Design-One/blob/main/Screenshot%20(190).png?raw=true" 
-           alt="Hotel Booking Image 2" height="200" style="border: 2px solid #ddd; border-radius: 5px;"/>
+           alt="Hotel Booking Image 2" height="200" width="400" style="border: 2px solid #ddd; border-radius: 5px;"/>
       <img src="https://github.com/sreekanthreddyvaddemani/Design-One/blob/main/Screenshot%20(189).png?raw=true" 
-           alt="Hotel Booking Image 3" height="200" style="border: 2px solid #ddd; border-radius: 5px;"/> 
+           alt="Hotel Booking Image 3" height="200" width="400" style="border: 2px solid #ddd; border-radius: 5px;"/> 
     </div>
 
    
