@@ -103,10 +103,11 @@
 </div>
 
 <div align="left">
-    <h2 align="left">Embedded Web Page</h2>
-    <p>This section displays content from an external web page.</p>
-    <iframe src="https://sreekanthreddyvaddemani.github.io/Design-One/Class1.html" 
-            width="100%" height="600" style="border:none;"></iframe>
+    <h2 align="left">External Project Page</h2>
+    <p>You can view the content by clicking the link below:</p>
+    <a href="https://sreekanthreddyvaddemani.github.io/Design-One/Class1.html" target="_blank">
+        View Project in New Tab
+    </a>
 </div>
 
 
