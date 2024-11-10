@@ -4,6 +4,15 @@
 
 <p align="left">Welcome to my page!<br><br>I am Sreekanth Reddy from Kolkata, India</p>
 
+
+- 👋 Hi, I’m @sreekanthreddyvaddemani
+- 👀 I’m interested in backend development, cloud computing, and microservices.
+- 🌱 I’m currently learning advanced Spring Boot configurations, microservices, and cloud platforms like AWS and Google Cloud.
+- 💞️ I’m looking to collaborate on open-source projects, microservices architecture, and Spring Boot applications.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sreekanth-reddy-vaddemani-2664a6225/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving complex problems with simple, efficient code!
+
  <h2 align="left">Follow me</h2>
 
 
