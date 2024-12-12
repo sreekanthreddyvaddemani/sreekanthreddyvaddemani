@@ -92,10 +92,11 @@
   <div style=" border:1px solid black ; display: flex; align-items: center; justify-content: space-evenly; flex-wrap: wrap; gap: 20px; margin-top: 15px;" >
       <img src="https://github.com/sreekanthreddyvaddemani/Design-One/blob/main/Screenshot%20(191).png?raw=true" 
            alt="Hotel Booking Image 1" height="150" width="260" style="border: 2px solid #ddd; border-radius: 5px;"/>&nbsp;&nbsp;
-      <img src="https://github.com/sreekanthreddyvaddemani/Design-One/blob/main/Screenshot%20(190).png?raw=true" 
-           alt="Hotel Booking Image 2" height="150" width="260" style="border: 2px solid #ddd; border-radius: 5px;"/>&nbsp;&nbsp;
       <img src="https://github.com/sreekanthreddyvaddemani/Design-One/blob/main/Screenshot%20(189).png?raw=true" 
            alt="Hotel Booking Image 3" height="150" width="260" style="border: 2px solid #ddd; border-radius: 5px;"/> &nbsp;&nbsp;
+      <img src="https://github.com/sreekanthreddyvaddemani/Design-One/blob/main/Screenshot%20(190).png?raw=true" 
+           alt="Hotel Booking Image 2" height="150" width="260" style="border: 2px solid #ddd; border-radius: 5px;"/>&nbsp;&nbsp;
+
     </div>
 
    
